@@ -4,7 +4,7 @@ This repo contains all the downloadable materials and projects associated with t
 
 ### [Networking & Concurrency in SwiftUI Course](https://www.kodeco.com/ios/paths/networking-concurrency-swiftui)
 
-- This course is part of [iOS Ready Program](https://www.kodeco.com/ios/programs/ios-ready), which you can take as either on-demand or live bootcamp from [Kodeco](https://www.kodeco.com).
+- This course is part of [Beginning iOS & Swift Program](https://www.kodeco.com/ios/programs/beginning-ios), which you can take as either on-demand or live bootcamp from [Kodeco](https://www.kodeco.com).
 
 
 ---
