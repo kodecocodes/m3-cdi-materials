@@ -1,8 +1,6 @@
 # Concurrency Demystified: Materials
 
-This repo contains all the downloadable materials and projects associated with the **Concurrency Demystified** module in:
-
-### [Networking & Concurrency in SwiftUI Course](https://www.kodeco.com/ios/paths/networking-concurrency-swiftui)
+This repo contains all the downloadable materials and projects associated with the [Concurrency Demystified](https://www.kodeco.com/ios/paths/networking-concurrency-swiftui/48743728-concurrency-demystified) module.
 
 - This course is part of [Beginning iOS & Swift Program](https://www.kodeco.com/ios/programs/beginning-ios), which you can take as either on-demand or live bootcamp from [Kodeco](https://www.kodeco.com).
 
@@ -16,4 +14,4 @@ Each edition has its own branch, named `versions/[VERSION]`. The default branch 
 | Branch                                                                            | Version | Release Date |
 | --------------------------------------------------------------------------------- |:-------:|:------------:|
 | [versions/1.0](https://github.com/kodecocodes/m3-cdi-materials/tree/versions/1.0) | 1.0     | 2024-06-20   |
-| [versions/2.0](https://github.com/kodecocodes/m3-cdi-materials/tree/versions/2.0) | 2.0     | YYYYY-MM-DD   |
+| [versions/2.0](https://github.com/kodecocodes/m3-cdi-materials/tree/versions/2.0) | 2.0     | 2025-09-20   |
